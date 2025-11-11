@@ -1,0 +1,5 @@
+train: D:\CHIA-EDU\AI\kaggle\FaceDetection\labels\train
+val: D:\CHIA-EDU\AI\kaggle\FaceDetection\labels\val
+
+nc: 1
+names: ['face']
